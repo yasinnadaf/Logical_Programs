@@ -1,0 +1,5 @@
+ERROR:root:name 'nu' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Yasin Nadaf\PycharmProjects\pythonLogicalPrograms\logicalprograms\fibonacci_series.py", line 15, in fibonacci_series
+    while c <= nu:
+NameError: name 'nu' is not defined
